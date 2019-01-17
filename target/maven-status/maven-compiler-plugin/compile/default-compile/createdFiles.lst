@@ -1,0 +1,7 @@
+com\gedharizka\training\spring\beans\MainApplication.class
+com\gedharizka\training\hibernate\Dao\KategoriBukuDao.class
+com\gedharizka\training\hibernate\Dao\BukuDao.class
+com\gedharizka\training\hibernate\MainApplication.class
+com\gedharizka\training\hibernate\entity\KategoriBuku.class
+com\gedharizka\training\hibernate\configuration\SessionFactoryUtil.class
+com\gedharizka\training\hibernate\entity\Buku.class
